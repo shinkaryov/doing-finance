@@ -3,3 +3,4 @@
 .pycache
 .parquet
 duckdbenv/
+.idea/
